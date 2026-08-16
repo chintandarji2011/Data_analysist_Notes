@@ -24,8 +24,9 @@ Roadmap
     - `Range`: The difference between __`highest value`__ and __`lowest value`__ within `set of numbers`,
     - `Variance`: The Average square difference of the values from `the mean`.
                  (Unlike previous measure of variability __`Rane`__, `the variance` includes all values in calculation by comparing each value in the calculation)
+
       $$
-      \sigma^2 = \frac{\sum (X - \mu)^2}{N}
+      \sigma^2 = \frac{\sum (X-\mu)^2}{N}
       $$
 
     - `Standard deviations`: 
