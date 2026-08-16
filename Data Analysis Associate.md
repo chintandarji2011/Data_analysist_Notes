@@ -36,8 +36,8 @@ Roadmap
       $$
 
       $$
-\sigma = \sqrt{\frac{\sum (X-\mu)^2}{N}}
-$$
+      \sigma = \sqrt{\frac{\sum (X-\mu)^2}{N}}
+      $$
 
     
 
