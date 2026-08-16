@@ -68,7 +68,21 @@ __`Visual chart`__: it helps you __compare__ `different values`, understand how 
   - __`Correlation coefficients`__: Calculation of __values__ for `correlation coefficients` are performed using a computer, (although here, you can find the `steps` to find __the correlation coefficient__ by hand. This `coefficient` acknowledges you if __variables are related__. )
     <img width="1086" height="482" alt="image" src="https://github.com/user-attachments/assets/126a6c38-328f-4cef-b1b2-7cc70835f93f" />
 
+---
+---
+### PIVOT TABLE:
+- The Pivot table is the powerful tool in Excel.
+  - That help to `summarize`, `analyze` and `visualize` __large amount of `data`__.
+- It allows users to `rearrange`, `filter` and `group data dynamically` without modifying __the original data__.
+- __`Quick data summarization`__: Automatically calculate `sum`, `Averages`, `Counts` etc.
+- __`Easy Data Analysis`__: Helps in identify `patterns` and `trends`.
+- __`Flexible Data Organization`__: `Rearrange` data using __`drag-and-drop` features__.
+- __`Interactive Reports`__: Allows `filtering` and `sorting` without `altering` __the raw data__. 
 
-
+---
+---
+### Comparison Analysis:
+- It Involve comparing `different variables`, `groups`, or `scenarios` to __identify `similarities`, `differences`, `patterns`, and `trends`__.
+- Eg. Compare `sales` and `profit` across all the regions.
     
 
