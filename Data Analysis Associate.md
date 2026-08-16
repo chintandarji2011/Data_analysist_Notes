@@ -12,6 +12,8 @@ Roadmap
       3. __`Charts`__: A visual representation of the `distributions of values`.
   ---
   __Summary Statistics__:
+
+  ---
   - Measure of __`Center tendencies`__:
     - `Mean`: Average of all numbers and sometimes called `Arithmetic mean`.
     - `Median`:The middle number in `sequence of numbers`
@@ -19,9 +21,15 @@ Roadmap
     - `Mode`: The number `that occurs most often` within `set of numbers`.
   ---
   - Measure of __`variability`__:
-    - `Range`
-    - `Variance`
-    - `Standard deviations`  
+    - `Range`: The difference between __`highest value`__ and __`lowest value`__ within `set of numbers`,
+    - `Variance`: The Average square difference of the values from `the mean`.
+                 (Unlike previous measure of variability __`Rane`__, `the variance` includes all values in calculation by comparing each value in the calculation)
+      $$
+      \sigma^2 = \frac{\sum (X - \mu)^2}{N}
+      $$
+
+    - `Standard deviations`: 
+      
 
     
 
