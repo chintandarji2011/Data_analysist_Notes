@@ -29,11 +29,13 @@ Roadmap
       \sigma^2 = \frac{\sum (X-\mu)^2}{N}
       $$
 
-    - `Standard deviations`: It is measure that quantify `the amount of variation or dispersion` of set of data values.
-
       $$
       \sigma = \sqrt\{\frac{\sum (X-\mu)^2}{N}}
       $$
+
+    - `Standard deviations`: It is measure that quantify `the amount of variation or dispersion` of set of data values.
+
+     
 
    - 
       
