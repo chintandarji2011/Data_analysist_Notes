@@ -84,5 +84,12 @@ __`Visual chart`__: it helps you __compare__ `different values`, understand how 
 ### Comparison Analysis:
 - It Involve comparing `different variables`, `groups`, or `scenarios` to __identify `similarities`, `differences`, `patterns`, and `trends`__.
 - Eg. Compare `sales` and `profit` across all the regions.
+
+<img width="1083" height="501" alt="image" src="https://github.com/user-attachments/assets/42a4611d-42e8-4fa1-abdb-1a7e39f6ac65" />
+
+| COMPARISON | CORRELATION |
+|------------|-------------|
+|To compare different `entities`, `variables` or `groups`. | Examine the strength and direction of linear relationship between two continuous features. |
+|Tells the relative performance, characteristics or behaviors of different variables.|Quantifies the degree of association or dependency between two variables, indicates how chance in one variable relates to change in another variable.|
     
 
