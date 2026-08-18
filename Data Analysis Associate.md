@@ -90,7 +90,7 @@ __`Visual chart`__: it helps you __compare__ `different values`, understand how 
 | COMPARISON | CORRELATION |
 |------------|-------------|
 |To compare different `entities`, `variables` or `groups`. | Examine the `strength` and `direction` of __linear relationship__ between two __`continuous features`__. |
-|Tells the relative `performance`, `characteristics` or `behaviors` of __`different variables`_.|Quantifies the degree of `association` or `dependency` between __`two variables`__, indicates how chance in `one variable` relates to change in `another variable`. |
+|Tells the relative `performance`, `characteristics` or `behaviors` of __`different variables`__.|Quantifies the degree of `association` or `dependency` between __`two variables`__, indicates how chance in `one variable` relates to change in `another variable`. |
 |Involve `descriptive statistics`, `Visualization` or `Hypothesis testing` techniques.|These coefficients ranges `-1` to `+1`. |    
 |Common methods like `T-test`, `ANOVA test`, `Chi-square test` are used. | `Pearson's correlations coefficient`, `Sperman's Rank correlation coefficient` |
 
