@@ -96,5 +96,15 @@ __`Visual chart`__: it helps you __compare__ `different values`, understand how 
 
 <img width="1255" height="403" alt="image" src="https://github.com/user-attachments/assets/52e17842-bff6-4135-9246-817ec69be172" />
 
+---
+---
+### Ranking Analysis:
+
+- It is process of `Evaluating` and `Analyzing` the ranking of __`items`__, __`entities`__ and __`data`__, based in certain __criteria__ or __attributes__.
+- Eg. Find the top 5 products in terms of Sales.
+
+<img width="834" height="481" alt="image" src="https://github.com/user-attachments/assets/aa96ee43-a1b7-47f2-9f1e-45cf1ebc0feb" />
+
+
 
 
