@@ -94,6 +94,7 @@ __`Visual chart`__: it helps you __compare__ `different values`, understand how 
 |Involve `descriptive statistics`, `Visualization` or `Hypothesis testing` techniques.|These coefficients ranges `-1` to `+1`. |    
 |Common methods like `T-test`, `ANOVA test`, `Chi-square test` are used. | `Pearson's correlations coefficient`, `Sperman's Rank correlation coefficient` |
 
-<img width="1203" height="406" alt="image" src="https://github.com/user-attachments/assets/6e3e71d7-4c2e-4279-833f-983f21a6ad60" />
+<img width="1255" height="403" alt="image" src="https://github.com/user-attachments/assets/52e17842-bff6-4135-9246-817ec69be172" />
+
 
 
