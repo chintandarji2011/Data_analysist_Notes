@@ -105,6 +105,16 @@ __`Visual chart`__: it helps you __compare__ `different values`, understand how 
 
 <img width="834" height="481" alt="image" src="https://github.com/user-attachments/assets/aa96ee43-a1b7-47f2-9f1e-45cf1ebc0feb" />
 
+---
+---
+### Contribution Analysis:
+
+It is Powerful tool that helps `businesses` and `organization` to analyze __the contribution of various factors__ towards `a particular outcome`.
+
+Eg. __Analyze the contribution of categories__ towards `Sales`, `Revenue`, etc.
+
+<img width="812" height="478" alt="image" src="https://github.com/user-attachments/assets/ee631e39-4358-4109-b795-2d580f354e1f" />
+
 
 
 
