@@ -115,6 +115,38 @@ Eg. __Analyze the contribution of categories__ towards `Sales`, `Revenue`, etc.
 
 <img width="812" height="478" alt="image" src="https://github.com/user-attachments/assets/ee631e39-4358-4109-b795-2d580f354e1f" />
 
+---
+---
+
+### Pareto Analysis:
+
+It is also known as __80/20__ rules, is `a management tool` used to identify the most significant `factor` or `causes` that contribute to __significant outcome__.
+- in Pereto analysis assume the 80% of the `effects` are caused by the 20% `factors`.
+
+<img width="1155" height="509" alt="image" src="https://github.com/user-attachments/assets/05ad4851-6980-488d-9051-a580290e6ccb" />
+
+- Also called as __80-20__ rule, `80%` of the problems are __caused__ by 20% of __facts__ whether if you look into `profit`, `customer complaints`, `technical issues`, `product defects`, etc.
+
+- It __statistically separates__ limited number of `input factors` that have __greater impact__ on `the outcome`.
+- It is __powerful__ `quality` and `decision-making` tools.
+- It __organizes__ and __display__ `information` to show the __relative importance__ of various `problems` or `causes of the problems`.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/9d6dae06-7ba9-465c-9c21-3bd9f9b5b29e" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c23f100b-0def-4f6d-906b-c26b469b0e31" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0830bf9b-e1c1-47be-b9aa-4c8380e8006c" width="300">
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
