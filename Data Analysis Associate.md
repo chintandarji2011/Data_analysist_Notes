@@ -189,10 +189,21 @@ __Cyclic__: These are __the fluctuations__ in the data occurring at `irregular`,
 - __Trend__ is `a pattern` in data that shows __the movement of a series__ to relatively `higher` or `lower` values __a long period of time__.
 - in other words, a trend is __observed__ when there is an `increasing` or `decreasing` __slop__ in the time series.
 
+##### __Types of Trends__:
+
+__Upward trends__: `Time series analysis` shows __a general pattern__ that `upward` then it is Upward trend. 
+
+__Downward trends__: `Time Series Analysis` shows __a pattern__ that is `downward` then it is Downwards trends.
+
+__Horizonal or Stationary trend__: if __no pattern__ is observed then it is called a `Horizonal` or `Stationary` trend.
+
+
 ---
 
 #### Line Chart:
-- Shows how __continuous variable__ changes `over a time`. 
+- Shows how __continuous variable__ changes `over a time`.
+
+  
 
 
 
