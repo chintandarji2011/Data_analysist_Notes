@@ -197,11 +197,115 @@ __Downward trends__: `Time Series Analysis` shows __a pattern__ that is `downwar
 
 __Horizonal or Stationary trend__: if __no pattern__ is observed then it is called a `Horizonal` or `Stationary` trend.
 
+<img width="624" height="472" alt="image" src="https://github.com/user-attachments/assets/229208e9-c076-457c-a600-498685c9a82c" />
+
+
 
 ---
 
 #### Line Chart:
 - Shows how __continuous variable__ changes `over a time`.
+
+---
+---
+
+### Break Even Analysis:(Decision modeling)
+
+- It is __financial calculation__ used to determine __the point__ at which a `business`, `product`, or `projects` will be able to __cover all its `costs` and begin to make a `profit`__.
+- __The Break-Even point (BEP)__ is the `level of sales` at which __total revenues__ equal `total costs`, resulting in neither `profit` nor `loss`.
+  - It represents __the minimum amount of sales__ needed to cover `all fixed` and `variable` __costs__ associated with `production` or `running a business`.
+
+<img width="402" height="402" alt="image" src="https://github.com/user-attachments/assets/ebc4664d-a9f2-48c0-ad34-4e0660a7fe4d" />
+
+
+---
+#### Make or Buy Decision Modeling:
+
+- The business can produce either `manufacture product` internally or `buy from the market`.
+- Manufacturing has __fixed cost__ `$50,000` of setting up manufacturing facility and __manufacturing cost per unit__ of `$125`.
+- __Buying from Market (Outsourcing)__ has no `fixed cost` and `cost per unit` is `$175`.
+   
+__Decision is to choose more `economic model` based on `volume of production`.__
+
+
+---
+
+__Mathematical Modeling__:
+
+- __The process of transformation `business problem`__ into `a system` using `mathematical concepts`, `equations` and `notations` is termed `mathematical modeling`.
+
+  > `Total cost` = `Fixed cost` (Development cost) + `Variable cost`(user cost)
+
+  > `Variable cost` = `per User Cost` X `Number of Users`
+
+  > __`Total Cost`__ = `Fixed cost` + __(`per User Cost` X `Number of Users`)__
+
+  Mathematical model:
+     - `TC` = Total Cost
+     - `F` = Fixed cost
+     - `V` = Variable unit cost
+     - `Q` = Quantity produced
+
+
+> `TC`(manufacturing) = $50,000 + $125*`Q`  
+
+> `TC`(outsourcing) = $175*`Q`
+
+
+
+> Breakeven Point: 
+
+> `Q` where `TC`(manufacturing) = `TC`(outsourcing)
+
+> `$50,000` + $125 × `Q` = $175 × `Q`
+
+> $50,000 = 50 × `Q`
+
+> `Q` = 1,000
+
+>General Formula: `F` + `V` `Q` = `C` `Q`
+
+> `Q` = `F`/`(C - V)`
+
+
+<img width="791" height="453" alt="image" src="https://github.com/user-attachments/assets/156d2d38-b297-4342-b83b-e7d538217e78" />
+
+---  
+__Q. Decision Modeling Software Purchase or In-House?__
+
+- `The business decision` needs to be made to `make` or `buy` __a software product__.
+- Software development project __costs__ `$200,000` and __maintenance of `the software infrastructure costs`__ `$30` per `user` per `annum`.
+- Buying a SAAS product directly from a software vendor. This has __no development__ or __upfront costs__, and the software vendor __charges__  `$250` per `user` per `annum`.
+
+- Decision is to choose more economic model based on the number of users.
+
+> Assume that `development cost` of __$200k__ is required to `maintain` and `add new feature` every year.
+
+---
+__Break Even Decision Model__:
+
+- Total Cost of Development = `$200,000` + `$30` x Users
+- Total Cost of SAAS software = `$250` x Users
+
+
+Break-even Point:
+
+- Can get break-even point by equating above equations
+
+> `$200,000` + `$30` x Users = `$250` x Users
+
+> `220`xusers = `200,000` ->    about  909  users.
+
+> This means at __909__ users both costs are same. 
+
+- So, if `number of users` are more than __909__, then we `develop software` otherwise `buying SAAS software` is better.
+
+
+
+
+
+
+
 
   
 
