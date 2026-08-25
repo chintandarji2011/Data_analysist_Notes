@@ -174,7 +174,25 @@ __STep4__: Customized your __Dashboard__.
 
 > __Examples:__ `Weather Forecasting`, `Sales Trends`, `Data captured in CCTV`, `Stock price`, etc.
 
+---
+#### Pattern in Time Series:
+__Trends:__ A `long-term movement` in the data, showing __a general direction__ of `the time series`, either __upward__ or __downwards__, over a significant period. 
 
+__Seasonality__: It refers to `regular`, `predictable changes` in __the data__ that represent over __a fixed period__, such as `monthly`, `quarterly`, or `yearly patterns`.
+
+__Cyclic__: These are __the fluctuations__ in the data occurring at `irregular`, `typically influenced` by __economic__ or __business cycles__, with durations longer than a year.
+
+---
+
+#### Trend Analysis:
+
+- __Trend__ is `a pattern` in data that shows __the movement of a series__ to relatively `higher` or `lower` values __a long period of time__.
+- in other words, a trend is __observed__ when there is an `increasing` or `decreasing` __slop__ in the time series.
+
+---
+
+#### Line Chart:
+- Shows how __continuous variable__ changes `over a time`. 
 
 
 
