@@ -164,6 +164,15 @@ __Step3__: Add __interactivity__ using `Slicer`, `filters`, `pivot tables` etc.
 __STep4__: Customized your __Dashboard__.
 
 ---
+---
+
+### Time Series Data:
+
+- `Time Series Data` is a __sequence of data points__ that measure `some variable` over `ordered period of time`.
+-  It helps to `understand` and `forecast` data patterns.
+-  It is important to look for the `patterns` or `components` in __a Time Series data__ such as `Trends`, `Seasonality` etc.
+
+> __Examples:__ `Weather Forecasting`, `Sales Trends`, `Data captured in CCTV`, `Stock price`, etc.
 
 
 
