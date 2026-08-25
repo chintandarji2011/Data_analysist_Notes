@@ -145,6 +145,26 @@ It is also known as __80/20__ rules, is `a management tool` used to identify the
   </tr>
 </table>
 
+---
+---
+
+### Interactive Dashboards:
+
+__Interactive Dashboards__ in Excel are a powerful way to present and analyze data. 
+- They allow users to explore and analyze data through data. They allow users to explore and analyze data through interactive charts, tables, and visualizations.
+
+- It is a `Data Management tool` which comes with various __interactive features__, were users can explore the data on deeper level.
+---
+__Step1__: Prepare your data.
+
+__Step2__: Create your __Dashboard__ with `charts`, `tables`, and `visualizations`.
+
+__Step3__: Add __interactivity__ using `Slicer`, `filters`, `pivot tables` etc.
+
+__STep4__: Customized your __Dashboard__.
+
+---
+
 
 
 
