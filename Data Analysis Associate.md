@@ -240,7 +240,7 @@ __Mathematical Modeling__:
 
   > __`Total Cost`__ = `Fixed cost` + __(`per User Cost` X `Number of Users`)__
 
-  Mathematical model:
+- Mathematical model:
      - `TC` = Total Cost
      - `F` = Fixed cost
      - `V` = Variable unit cost
@@ -253,7 +253,7 @@ __Mathematical Modeling__:
 
 
 
-> Breakeven Point: 
+-  Breakeven Point: 
 
 > `Q` where `TC`(manufacturing) = `TC`(outsourcing)
 
